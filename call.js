@@ -22,11 +22,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/10/toyotas-technician-training-education.html"}
-if(x=="2"){xxx="/2018/10/toyotas-over-weekend-racing-smith-top.html"}
-if(x=="3"){xxx="/2018/10/wins-top-special-weekend-jones-first.html"}
-if(x=="4"){xxx="/2018/10/weekend-racing-action-toyotas-tally.html"}
-if(x=="5"){xxx="/2018/10/every-track-claim-victory.html"}a_to_ve[i].href="https://sortedlink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2021/03/cancer-asbestos-at-risk-of-suffering.html"}
+if(x=="2"){xxx="/2021/03/symptoms-of-asbestosis-that-attacks.html"}
+if(x=="3"){xxx="/2021/03/planning-to-donate-car-to-charity-read.html"}
+if(x=="4"){xxx="/2021/03/truck-accident-lawyer-very-important.html"}
+if(x=="5"){xxx="/2021/03/7-best-business-phone-service-providers.html"}a_to_ve[i].href="https://sortedlink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
